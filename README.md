@@ -32,9 +32,9 @@
 ## 📈 Development Activity
 
 <div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumayyafazalhussain&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumayyafazalhussain&theme=dark&hide_border=true" alt="GitHub Streak" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumayyafazalhussain&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ameer Hamza&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?userAmeer Hamza&theme=dark&hide_border=true" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerHamza&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="90%" />
 </div>
 
 ---
@@ -50,16 +50,16 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[Your LinkedIn URL]" target="_blank">
+  <a href="[https://www.linkedin.com/in/ameerhamzamemon ]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[Your Email]" target="_blank">
+  <a href="mailto:[hamzamemon6767@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[Your Portfolio URL]" target="_blank">
+  <a href="[https://next-portfolio-hamza.vercel.app/]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
-  <a href="[Your Dev.to/Blog URL]" target="_blank">
+  <a href="[]" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog" />
   </a>
 </p>
